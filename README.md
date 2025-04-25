@@ -1,12 +1,12 @@
 <div>
   <h1 align="center">
-    Olá, eu sou o Hiago 👋
+    Olá, eu sou o Edu 😁
   </h1>
   <p align="center"><strong>
-  🌱 Estudando Análise e Desenvolvimento de Sistemas na IFSP Bragança Paulista
+  👨‍💻 Estudando Análise e Desenvolvimento de Sistemas no IFSP.
   </strong></p>
   <p align="center"><strong>
-  📚 Aprendendo HTML, CSS, Java Script e C++
+  💾 Aprendendo HTML, CSS, Java Script e C++
   </strong></p>
 </div>
 
